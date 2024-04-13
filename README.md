@@ -55,4 +55,18 @@
   <a href="">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="insta badge"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Construct%203-00FFDA.svg?style=for-the-badge&logo=Construct-3&logoColor=white" alt="insta badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="insta badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="insta badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/SymPy-3B5526.svg?style=for-the-badge&logo=SymPy&logoColor=white" alt="insta badge"/>
+  </a>
 </div>
+
+****
