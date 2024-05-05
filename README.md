@@ -1,8 +1,8 @@
 # ✨ About me 
 
 
-- 🔭 I’m currently working on Animus
-- 🌱 I’m currently learning golang and python
+- 🔭 I’m currently working on CArchiver and ShadersOPGL
+- 🌱 I’m currently learning C++, C, C#, Javascript and python
 - ⚡ Fun fact: I have learned 4 (programming) languages over just 3 years
 
 ****
